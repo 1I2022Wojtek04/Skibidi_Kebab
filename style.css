@@ -2,5 +2,9 @@ body {
     font-family: sans-serif;
     background-color: crimson;
     margin: auto;
-    align-content: center;
+    text-align: center;
+}
+
+img {
+    align-self: center;
 }
