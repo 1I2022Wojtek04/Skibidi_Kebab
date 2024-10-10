@@ -2,4 +2,5 @@ body {
     font-family: sans-serif;
     background-color: crimson;
     margin: auto;
+    align-items: center;
 }
